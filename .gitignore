@@ -1,8 +1,3 @@
-¡Claro! Aquí tienes el .gitignore definitivo y optimizado para Unreal Engine 5.
-
-Pégalo tal cual en un archivo llamado .gitignore (sin extensión .txt) en la carpeta raíz de tu proyecto. Este archivo es el que hará el milagro de que esos 5.2 GB no se suban a GitHub y solo se queden los archivos importantes.
-
-Plaintext
 # --- UNREAL ENGINE ---
 # Ignora las carpetas pesadas que Unreal regenera solo
 Binaries/
